@@ -1,0 +1,6 @@
+Django==1.10.2      # Django ...
+psycopg2==2.6.2     # PostgreSQL adapter
+Jinja2==2.8         # A small but fast and easy to use stand-alone template engine written in pure python
+
+# Linting
+pylint==1.6.4
